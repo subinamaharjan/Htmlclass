@@ -1,0 +1,57 @@
+ div{
+    font-size: small;
+    font-style: italic;
+ }
+ .title{                                                                                                                                                                                                                                                                                                                                                                                                                   ``                                                                                                                                                                                                                                                                      
+    font-size: larger;
+    font-weight: 100;
+ }
+ #sub{
+    background-color: aqua;
+    ;
+ }
+ .rom{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    background-color:blueviolet;
+ }
+ div h1{
+    background-color: brown;
+ }
+ .sub-title{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: dotted;
+    color:burlywood;
+    font:40px monospace medium;
+    position:absolute;
+    display:inline-block;
+ }
+ .text-title{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: overline;
+    color:rebeccapurple;
+    font:30px monospace medium;
+    text-shadow:20px 30px 1px #000;
+ }
+ .sub-container{
+    margin: 100px;
+    padding-left: 20px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    border-width: 10px;
+    border-color: black;
+    border-radius:40px;
+    border-style:double;
+    background-color: blueviolet;
+    display:inline-block;
+    position: relative;
+
+ }
+ .body{
+    background-image: url('./flower.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+ }

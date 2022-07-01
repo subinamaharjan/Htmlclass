@@ -1,0 +1,92 @@
+#var-bar{
+    display:flex;
+    align-self:center;
+    align-items: center;
+    justify-content: space-evenly;
+    width: "70%";
+    padding: 30px;
+    display: block;
+    border-bottom-width: 10px;
+    border-bottom-color: gray;
+    position: sticky;
+
+
+
+}
+.nav-title{
+    font-size: 1em;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav-item{
+    font-size: 1.5em;
+    padding-left: 2em;
+}
+#nav-button{
+    padding: 10px 10px; 
+    border: 2px;
+    height: 40px;
+    width: 100px;
+    margin-left:5em;
+}
+.title{
+    margin-left: 1000px;
+    margin top: 500px;
+}
+.sub{
+    display: flex;
+    flex-direction: row;
+}
+.sub-title{
+    display: flex;
+    flex-direction: row;
+    flex:1;
+    padding: 30px;
+}
+.container{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    padding:30px  30px;
+    
+}
+
+.sup-title{
+    display: flex;
+    flex-direction:row;
+    
+
+}
+.sub-container{
+    flex: 1;
+    padding: 30px;
+    
+
+}
+.title-conatiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title-text{
+    font-size: 16px;
+    font-weight:light;
+    margin:0px;
+
+}
+.sub-text{
+    font-size: 16px;
+    font-weight: bold;
+    padding:0;
+    margin:0;
+    text-align: center;
+}
+.skill-desc{
+    font-size: bold;
+    
+}
+.skill-para{
+    font-size: 12px;
+    font-weight: light;
+}
